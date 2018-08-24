@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1202px" height="281px" viewBox="0 0 1202 281" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1202px" height="280px" viewBox="0 0 1202 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
     <title>header-waves</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.04">
-        <g id="1-Homepage" fill="#FFFFFF" fill-rule="nonzero">
-            <g id="Background" transform="translate(-240.000000, -655.000000)">
+        <g id="1.1-Homepage" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Background" transform="translate(-240.000000, -656.000000)">
                 <g id="waves-header" transform="translate(35.000000, 0.000000)">
                     <g id="header-waves" transform="translate(808.500000, 703.500000) scale(-1, 1) rotate(-60.000000) translate(-808.500000, -703.500000) translate(399.000000, 7.000000)">
                         <path d="M793.514608,1206.18988 C796.128018,1125.23788 157.764608,105.038581 157.764608,105.038581 C157.764608,105.038581 39.2274246,-145.431517 4.58142819,128.849288 C-18.0250845,307.853603 48.986047,494.595524 146.05258,613.893239 C196.597173,675.720036 253.713685,731.86847 316.395396,781.348888 C389.729422,886.672718 539.741597,1318.64213 505.994174,1372.18988 C455.568331,1452.20163 791.153889,1279.31465 793.514608,1206.18988 Z" id="Shape"></path>
