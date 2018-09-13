@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="27px" viewBox="0 0 46 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>hint-image-back</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="10" cy="10" r="10"></circle>
+    </defs>
+    <g id="Wireframes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="9.4-Input-Fields-3/3" transform="translate(-108.000000, -778.000000)">
+            <g id="Security-Code" transform="translate(68.000000, 424.000000)">
+                <g id="Hint" transform="translate(37.000000, 350.000000)">
+                    <g id="hint-image-back" transform="translate(3.000000, 4.000000)">
+                        <g id="Credit-Card">
+                            <path d="M37,6.20003623 C36.3537801,6.06886052 35.6849317,6 35,6 C29.4771525,6 25,10.4771525 25,16 C25,19.2711979 26.5706862,22.1755424 28.9990251,24 L1,24 C0.44771525,24 6.76353751e-17,23.5522847 0,23 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 L36,0 C36.5522847,-1.01453063e-16 37,0.44771525 37,1 L37,6.20003623 Z M19,14 C22.3137085,14 25,12.4329966 25,10.5 C25,8.56700338 22.3137085,7 19,7 C15.6862915,7 13,8.56700338 13,10.5 C13,12.4329966 15.6862915,14 19,14 Z" id="Rectangle-3" fill="#A1C6FF"></path>
+                            <path d="M2,17 L11,17 L11,19 L2,19 L2,17 Z M2,2 L35,2 L35,5 L2,5 L2,2 Z M2,20 L17,20 L17,22 L2,22 L2,20 Z M12,17 L25,17 L25,19 L12,19 L12,17 Z" id="Rectangle-3-Copy" fill="#5F5F5F"></path>
+                        </g>
+                        <g id="Zoom" transform="translate(25.000000, 6.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" stroke="#FFFFFF" stroke-width="1.5" xlink:href="#path-1"></use>
+                            <g id="Credit-Card" mask="url(#mask-2)">
+                                <g transform="translate(-77.000000, -31.000000)">
+                                    <rect id="Rectangle-3" fill="#A1C6FF" fill-rule="evenodd" x="0" y="0" width="99.3897123" height="69.1406694" rx="1"></rect>
+                                    <polygon id="Rectangle-3-Copy" fill="#5F5F5F" fill-rule="evenodd" points="79 46 96 46 96 52 79 52"></polygon>
+                                    <text id="1234" fill="none" font-family="Helvetica" font-size="6" font-weight="normal">
+                                        <tspan x="80" y="42" fill="#5F5F5F">1234</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
