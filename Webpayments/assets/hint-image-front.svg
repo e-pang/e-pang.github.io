@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="45px" height="27px" viewBox="0 0 45 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
     <title>hint-image-front</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -24,7 +24,7 @@
                                 <g id="Group-Copy" mask="url(#mask-2)">
                                     <g transform="translate(-43.923077, -15.615385)">
                                         <path d="M2,0 L66.4764268,-1.11022302e-16 C67.0287115,-2.12475365e-16 67.4764268,0.44771525 67.4764268,1 L67.4764268,45.2444708 C67.4764268,45.7967556 67.0287115,46.2444708 66.4764268,46.2444708 L2,46.2444708 C1.44771525,46.2444708 1,45.7967556 1,45.2444708 L1,1 C1,0.44771525 1.44771525,1.01453063e-16 2,0 Z M4.92307692,19.6153846 L4.92307692,28.6153846 L59.9230769,28.6153846 L59.9230769,19.6153846 L4.92307692,19.6153846 Z" id="Combined-Shape" fill="#62A0FF" fill-rule="evenodd"></path>
-                                        <rect id="Rectangle-3-Copy" fill="#5F5F5F" fill-rule="evenodd" x="0.923076923" y="5.61538462" width="66" height="12"></rect>
+                                        <polygon id="Rectangle-3-Copy" fill="#5F5F5F" fill-rule="evenodd" points="0.923076923 5.61538462 66.9230769 5.61538462 66.9230769 17.6153846 0.923076923 17.6153846"></polygon>
                                         <text id="123" fill="none" font-family="SFUIText-Regular, SF UI Text" font-size="6" font-weight="normal">
                                             <tspan x="47.6762326" y="26.1043262" fill="#5F5F5F">123</tspan>
                                         </text>
