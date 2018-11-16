@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M62.5,119 L47.5,119 C44.95,119 43,120.95 43,123.5 L43,132.5 C43,135.05 44.95,137 47.5,137 L62.5,137 C65.05,137 67,135.05 67,132.5 L67,123.5 C67,120.95 65.05,119 62.5,119 Z M62.5,121 C62.65,121 62.8,121 62.95,121.15 L62.8,121.15 L55,126.85 L47.2,121.15 L47.05,121.15 C47.2,121 47.35,121 47.5,121 L62.5,121 Z M64,132.5 C64,133.4 63.4,134 62.5,134 L47.5,134 C46.6,134 46,133.4 46,132.5 L46,123.2 C46,123.35 46.15,123.35 46.3,123.35 L54.55,129.35 C54.7,129.5 54.85,129.5 55,129.5 C55.15,129.5 55.3,129.5 55.45,129.35 L63.7,123.35 C63.85,123.35 63.85,123.2 63.85,123.05 C64,123.2 64,123.35 64,123.5 L64,132.5 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.3-Subscription-Confirmation" transform="translate(-947.000000, -511.000000)">
+            <g id="Share" transform="translate(202.000000, 370.000000)">
+                <g id="Email---On-click" transform="translate(702.000000, 22.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape-Copy" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
