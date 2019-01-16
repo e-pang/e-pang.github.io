@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="218px" height="28px" viewBox="0 0 218 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="141px" height="19px" viewBox="0 0 141 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
     <title>Header Logo</title>
     <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="FiraSans-Regular, Fira Sans" font-size="34" font-weight="normal" letter-spacing="-0.7727273">
-        <g id="Public-Logged-Out-Homepage" transform="translate(-578.000000, -391.000000)" fill="#FFFFFF">
-            <g transform="translate(300.000000, 235.000000)" id="Browser-Chrome">
-                <g transform="translate(0.000000, 31.000000)">
-                    <g id="Header" transform="translate(201.000000, 107.000000)">
-                        <g id="Header-Logo">
-                            <g id="Firefox-Monitor">
-                                <text>
-                                    <tspan x="74" y="37">Firefox</tspan>
-                                    <tspan x="174.092909" y="37" font-family="FiraSans-Medium, Fira Sans" font-weight="400"> </tspan>
-                                    <tspan x="181.820182" y="37" font-family="FiraSans-Light, Fira Sans" font-weight="300">Monitor</tspan>
-                                </text>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="FiraSans-Regular, Fira Sans" font-size="22" font-weight="normal" letter-spacing="-0.5000001">
+        <g id="Homescreen-Mobile" transform="translate(-1176.000000, -379.000000)" fill="#0C0C0D">
+            <g id="Group-3" transform="translate(939.000000, 235.000000)">
+                <g id="Public-Logged-Out-Homepage">
+                    <g id="Browser-Chrome" transform="translate(161.000000, 105.000000)">
+                        <g id="Header" transform="translate(-31.000000, -1.000000)">
+                            <g id="Header-Logo" transform="translate(40.000000, 16.000000)">
+                                <g id="Firefox-Monitor">
+                                    <text>
+                                        <tspan x="65" y="37">Firefox</tspan>
+                                        <tspan x="129.765999" y="37" font-family="FiraSans-Medium, Fira Sans" font-weight="400"> </tspan>
+                                        <tspan x="134.765999" y="37" font-family="FiraSans-Light, Fira Sans" font-weight="300">Monitor</tspan>
+                                    </text>
+                                </g>
                             </g>
                         </g>
                     </g>
