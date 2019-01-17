@@ -10,14 +10,18 @@
         </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Full-Report---1-Breach" transform="translate(-938.000000, -1127.000000)">
-            <g id="What-to-do" transform="translate(427.000000, 724.000000)">
-                <g id="Group-2" transform="translate(512.000000, 400.000000)">
-                    <g id="1" transform="translate(0.289225, 4.000000)">
-                        <ellipse id="Oval" stroke="url(#linearGradient-1)" stroke-width="2" cx="20.5482042" cy="20" rx="20.5482042" ry="20"></ellipse>
-                        <text font-family="FiraSans-Medium, Fira Sans" font-size="20" font-weight="400" fill="#0A84FF">
-                            <tspan x="15.4111531" y="26">4</tspan>
-                        </text>
+        <g id="First-View-of-Logged-In-Homepage" transform="translate(-938.000000, -1623.000000)">
+            <g id="Page" transform="translate(300.000000, 266.000000)">
+                <g id="Browser-Chrome">
+                    <g id="What-to-do" transform="translate(127.000000, 954.000000)">
+                        <g id="Group-2" transform="translate(512.000000, 400.000000)">
+                            <g id="1" transform="translate(0.289225, 4.000000)">
+                                <ellipse id="Oval" stroke="url(#linearGradient-1)" stroke-width="2" cx="20.5482042" cy="20" rx="20.5482042" ry="20"></ellipse>
+                                <text font-family="FiraSans-Medium, Fira Sans" font-size="20" font-weight="400" fill="#0A84FF">
+                                    <tspan x="15.4111531" y="26">4</tspan>
+                                </text>
+                            </g>
+                        </g>
                     </g>
                 </g>
             </g>
