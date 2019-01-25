@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="42px" viewBox="0 0 44 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#18BAFF" offset="0%"></stop>
+            <stop stop-color="#0A84FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Latest-Breaches-on-Home-Screen" transform="translate(-938.000000, -1977.000000)">
+            <g id="What-to-do" transform="translate(427.000000, 1574.000000)">
+                <g id="Group-2" transform="translate(512.000000, 400.000000)">
+                    <g id="1" transform="translate(0.289225, 4.000000)">
+                        <ellipse id="Oval" stroke="url(#linearGradient-1)" stroke-width="2" cx="20.5482042" cy="20" rx="20.5482042" ry="20"></ellipse>
+                        <text font-family="FiraSans-Medium, Fira Sans" font-size="20" font-weight="400" fill="#0A84FF">
+                            <tspan x="15.4111531" y="26">4</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
